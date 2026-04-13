@@ -2,3 +2,39 @@
     box-sizing: border-box;
 }
 
+#main-heading {
+    background-color:pink;
+    color: white;
+}
+
+body {
+    background-color: gray;
+}
+
+.p1 {
+    color:yellow;
+}
+
+.p2 {
+    color:greenyellow;
+}
+
+.p3 {
+    color:lightblue;
+    display: flex;
+    : 50px;
+}
+
+.p-white {
+    color:white;
+}
+
+.border1 {
+    background-color: white;
+    border: 3px solid orange;
+    height: 100px;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 50%;
+}
+
